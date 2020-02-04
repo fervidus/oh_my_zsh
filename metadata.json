@@ -1,47 +1,55 @@
 {
   "name": "fervid-oh_my_zsh",
-  "version": "0.1.0",
-  "author": "Bryan Belanger",
-  "summary": "",
+  "version": "1.0.3",
+  "author": "fervid",
+  "summary": "Install zsh and configures users for oh_my_zsh.",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/fervidus/oh_my_zsh.git",
   "dependencies": [
 
   ],
   "operatingsystem_support": [
     {
-      "operatingsystem": "CentOS",
+      "operatingsystem": "Aliyun",
       "operatingsystemrelease": [
-        "7"
+        "1"
       ]
     },
     {
       "operatingsystem": "OracleLinux",
       "operatingsystemrelease": [
-        "7"
+        "6",
+        "7",
+        "8"
       ]
     },
     {
       "operatingsystem": "RedHat",
       "operatingsystemrelease": [
+        "6",
+        "7",
         "8"
       ]
     },
     {
-      "operatingsystem": "Scientific",
+      "operatingsystem": "CentOS",
       "operatingsystemrelease": [
-        "7"
+        "6",
+        "7",
+        "8"
       ]
     },
     {
       "operatingsystem": "Debian",
       "operatingsystemrelease": [
+        "8",
         "9"
       ]
     },
     {
       "operatingsystem": "Ubuntu",
       "operatingsystemrelease": [
+        "16.04",
         "18.04"
       ]
     }
