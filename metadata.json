@@ -1,6 +1,6 @@
 {
   "name": "fervid-oh_my_zsh",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "author": "fervid",
   "summary": "Install zsh and configures users for oh_my_zsh.",
   "license": "Apache-2.0",
