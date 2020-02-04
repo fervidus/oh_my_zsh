@@ -40,7 +40,7 @@ bolt plan run oh_my_zsh::install -t <nodes to install zsh on>
 To install oh_my_zsh:
 
 ``` bolt_plan
-bolt plan run oh_my_zsh -t <nodes to install zsh on> -u <user to setup with zsh>
+bolt plan run oh_my_zsh -t <nodes to configure oh_my_zsh on> -u <user to setup with zsh>
 ```
 
 ## Limitations
